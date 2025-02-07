@@ -15,7 +15,8 @@ Repositorio de materiales y proyectos de la asignatura **Programación II** del 
     - **Final**: [Enunciado](evaluaciones/examenes/examenFinal/README.md) | Repositorio de trabajo y entrega.
     - **Extraordinario**: [Enunciado](evaluaciones/examenes/examenExtraordinario/README.md) | Repositorio de trabajo y entrega.
 
-> ***NOTA:*** Los repositorios de entrega de exámenes estarán disponible días antes del examen. El repositorio con el enunciado del examen se activa al inicio del examen y permitirá entregas hasta la finalización del mismo.
+> [!IMPORTANT]
+> Los repositorios de entrega de exámenes estarán disponible días antes del examen. El repositorio con el enunciado del examen se activa al inicio del examen y permitirá entregas hasta la finalización del mismo.
 
 ## 🔧 Herramientas et al
 
@@ -32,7 +33,8 @@ Repositorio de materiales y proyectos de la asignatura **Programación II** del 
 
 ## 📖 Bibliografía & enlaces interesantes
 
-NOTA: *Algunos enlaces podrían requerir **credenciales de acceso al campus** o a otros espacios colaborativos.*
+> [!NOTE]
+> Algunos enlaces podrían requerir *credenciales de acceso al campus* o a otros espacios colaborativos.
 
 - Hoja de asistencia et-al
 - Libro de la asignatura
