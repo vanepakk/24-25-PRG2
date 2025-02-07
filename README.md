@@ -1,8 +1,8 @@
-# Programación II
+# 👨‍💻 Programación II
 
 Repositorio de materiales y proyectos de la asignatura **Programación II** del [Grado de Ingeniería Informática](https://www.uneatlantico.es/escuela-politecnica-superior/estudios-grado-oficial-en-ingenieria-informatica) la [Universidad Europea del Atlántico](https://www.uneatlantico.es).
 
-## Curso *[24][25]*
+## ⏰ Curso *[24][25]*
 
 - [Temario](temario/README.md)
   - [A día de hoy, deberíamos saber...](temario/aDiaDeHoy.md)
@@ -17,7 +17,7 @@ Repositorio de materiales y proyectos de la asignatura **Programación II** del 
 
 > ***NOTA:*** Los repositorios de entrega de exámenes estarán disponible días antes del examen. El repositorio con el enunciado del examen se activa al inicio del examen y permitirá entregas hasta la finalización del mismo.
 
-## Herramientas et al
+## 🔧 Herramientas et al
 
 - [GIT](https://git-scm.com/) & [GitHub](https://github.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -30,7 +30,7 @@ Repositorio de materiales y proyectos de la asignatura **Programación II** del 
 - [Google Docs](https://drive.google.com/drive/u/0/my-drive)
 - [Plantillas](/documentos/plantillas.md)
 
-## Bibliografía & enlaces interesantes
+## 📖 Bibliografía & enlaces interesantes
 
 NOTA: *Algunos enlaces podrían requerir **credenciales de acceso al campus** o a otros espacios colaborativos.*
 
