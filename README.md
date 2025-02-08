@@ -4,7 +4,7 @@ Repositorio de materiales y proyectos de la asignatura **Programación II** del 
 
 ## ⏰ Curso *[24][25]*
 
-- [Temario](temario/README.md)
+- [Temario](/PRG2-2025-02-04-12-06.pdf)
   - [A día de hoy, deberíamos saber...](temario/aDiaDeHoy.md)
   - [Casos de uso](temario/casosDeUso/README.md)
   - [Ejercicios](temario/ejercicios/README.md)
@@ -23,11 +23,7 @@ Repositorio de materiales y proyectos de la asignatura **Programación II** del 
 - [GIT](https://git-scm.com/) & [GitHub](https://github.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [PlantText](https://www.planttext.com/), para usar el formato [PlantUML](https://plantuml.com/es/) al realizar diagramas de:
-  - [actividades](https://plantuml.com/es/activity-diagram-beta)
-  - [estados](https://plantuml.com/es/state-diagram)
-  - [clases](https://plantuml.com/es/class-diagram)
-  - [objetos](https://plantuml.com/es/object-diagram)
-  - [y otros...](https://plantuml.com/es/sitemap-language-specification)
+  - [estados](https://plantuml.com/es/state-diagram) / [actividades](https://plantuml.com/es/activity-diagram-beta) / [clases](https://plantuml.com/es/class-diagram) / [objetos](https://plantuml.com/es/object-diagram) / [y otros...](https://plantuml.com/es/sitemap-language-specification)
 - [Google Docs](https://drive.google.com/drive/u/0/my-drive)
 - [Plantillas](/documentos/plantillas.md)
 
@@ -37,5 +33,6 @@ Repositorio de materiales y proyectos de la asignatura **Programación II** del 
 > Algunos enlaces podrían requerir *credenciales de acceso al campus* o a otros espacios colaborativos.
 
 - Hoja de asistencia et-al
-- Libro de la asignatura
-- Este repo, versión de ediciones pasadas
+- [Trabajando con GIT](documentos/flujoGIT.md)
+- [Libro(s) de la asignatura@CampusVirtual](https://campus.uneatlantico.es/mod/folder/view.php?id=63401)
+- Este repo, versión de ediciones pasadas: [[23][24]](https://github.com/mmasias/23-24-PRG2)
